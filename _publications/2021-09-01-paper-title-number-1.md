@@ -6,9 +6,8 @@ excerpt: 'We compute the third post-Newtonian (3PN) accurate instantaneous contr
 date: 2021-09-01
 venue: 'Phys.Rev.D 105 (2022) 8, 084018'
 paperurl: 'https://doi.org/10.1103/PhysRevD.105.084018'
-citation: Cho et al. (2021); &quot;Third order post-Newtonian gravitational radiation from two-body scattering: Instantaneous energy and angular momentum radiation&quot; <i>Phys.Rev.D</i>. 105, 8, 084018.
+citation: 'Cho et al. (2021); &quot;Third order post-Newtonian gravitational radiation from two-body scattering: Instantaneous energy and angular momentum radiation.&quot; <i>Phys.Rev.D</i>. 105, 8, 084018.'
 ---
 
-
-[Download paper here](https://doi.org/10.1103/PhysRevD.105.084018)
+[Preprint](https://arxiv.org/abs/2111.00818)
 
