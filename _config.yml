@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Subhajit Dandapat"
-  avatar           : "Subhajit.jpg"
+  avatar           : "/images/subhajit.jpg"
   bio              : "Resrach Scholar at Tata Institute of Fundamental Research"
   location         : "Mumbai, India"
   employer         : 
