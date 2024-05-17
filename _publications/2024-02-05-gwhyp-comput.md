@@ -1,13 +1,14 @@
 ---
-title: "An efficient prescription to search for linear gravitational wave memory in pulsar timing array data and its application to the NANOGrav 12.5-year dataset"
+title: "Efficient prescription to search for linear gravitational wave memory from hyperbolic black hole encounters and its application to the NANOGrav 12.5-year dataset"
 collection: publications
-permalink: /publication/2024-02-05-gwhyp-comput
-excerpt: 'The first-ever Bayesian PTA search for Linear GW memory signal from hyperbolic encounters of BHs using multiple pulsars.'
-date: 2024-02-05
-venue: 'arXiv eprints'
-citation: 'Dandapat S, et al. (2023). &quot;An efficient prescription to search for linear gravitational wave memory in pulsar timing array data and its application to the NANOGrav 12.5-year dataset.&quot; <i>arXiv eprints</i> 2402.03472.'
+permalink: /publication/2024-05-13-hybulime-search
+excerpt: 'Searching for linear gravitational wave memory induced by hyperbolic encounters in the NANOGrav 12.5-year dataset.'
+date: 2024-05-13
+venue: 'Physical Review D'
+paperurl: https://doi.org/10.1103/PhysRevD.109.103018
+citation: 'Dandapat S, et al. (2024); &quot;Efficient prescription to search for linear gravitational wave memory from hyperbolic black hole encounters and its application to the NANOGrav 12.5-year dataset.&quot; <i>PRD</i> 109 103018 .'
 ---
-Computationally efficient pulsar timing array signal models for Linear GW memory signals and identifying such signals in NANOGrav 12.5-year dataset
+Searching for linear gravitational wave memory induced by hyperbolic encounters in the NANOGrav 12.5-year dataset.
 
 [Preprint](https://arxiv.org/abs/2402.03472)
 
