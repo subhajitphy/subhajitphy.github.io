@@ -10,8 +10,7 @@ locale                   : "en-IN"
 title                    : "Subhajit Dandapat"
 title_separator          : "-"
 name                     : &name "Subhajit Dandapat"
-description              : &description "Postdoctoral Research Fellow at the National University of Singapore (NUS); formerly at the Tata Institute of Fundamental Research (TIFR), Mumbai"
-
+description              : &description "Postdoctoral Research Fellow at the National University of Singapore (NUS); former PhD researcher at the Tata Institute of Fundamental Research (TIFR), Mumbai"
 url                      : https://subhajitphy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "subhajitphy/subhajitphy.github.io"
@@ -83,7 +82,11 @@ analytics:
 author:
   name             : "Subhajit Dandapat"
   avatar           : "subhajit.jpg"
-  bio              : "Postdoctoral Research Fellow at the National University of Singapore (NUS); formerly at the Tata Institute of Fundamental Research (TIFR), Mumbai"
+  bio              : >
+    <strong>Postdoctoral Research Fellow</strong> at the 
+    <a href="https://www.nus.edu.sg" target="_blank">National University of Singapore (NUS)</a>, 
+    and former PhD researcher at the 
+    <a href="https://www.tifr.res.in" target="_blank">Tata Institute of Fundamental Research (TIFR), Mumbai</a>.
   location         : "Singapore"
   employer         : 
   pubmed           : 
