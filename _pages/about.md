@@ -51,13 +51,17 @@ While my current applications are in scientific data, the underlying systems dir
 
 I completed my Ph.D. at the  
 [Tata Institute of Fundamental Research](https://main.tifr.res.in/) (TIFR), Mumbai (2024),  
-where I built **large-scale Bayesian inference systems** for extracting weak signals from noisy observational data.
+where I developed **large-scale Bayesian inference systems** for extracting weak signals from noisy observational data, in the context of **gravitational-wave data analysis and high-dimensional time-series inference**.
 
-I have worked in major international collaborations, including:
+I collaborate with major international research collaborations, including in technical leadership roles:
 
 - [International Pulsar Timing Array (IPTA)](http://ipta4gw.org/)  
-- ESA/NASA mission: [LISA](https://lisa.nasa.gov/)
+- **ESA/NASA mission: [LISA](https://lisa.nasa.gov/)**  
 - Former member of the [LIGO Scientific Collaboration](https://www.ligo.caltech.edu/)  
+
+I also completed my **BS–MS Dual Degree in Physics** from  
+[Indian Institute of Science Education and Research, Bhopal](https://www.iiserb.ac.in/) (2019),  
+where my Master’s thesis focused on *Chiral Anomalies in Quantum Field Theory*.
 
 ---
 
