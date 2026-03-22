@@ -13,3 +13,4 @@ Physics-informed transformer architectures combined with simulation-based infere
 
 [OpenReview](https://openreview.net/forum?id=Bpo4HgB6by)
 📄 PDF: [Download PDF](https://drive.google.com/file/d/14FwFw048rX4QX9m1_37sWwWtM_pN4-Ba/view?usp=sharing)
+<a href="https://github.com/subhajitphy/PIPE_GWs_PTA"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" style="vertical-align:middle;"/> GitHub</a>
