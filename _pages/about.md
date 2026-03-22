@@ -10,7 +10,7 @@ redirect_from:
 
 ## 👋 Hi there!
 
-I am an **AI-driven computational scientist** with expertise in **large-scale data analysis, probabilistic modeling, and high-dimensional inference systems**. I build **GPU-accelerated machine learning systems** for extracting weak signals from **noisy, high-dimensional time-series data**, reducing probabilistic inference time from **days to hours**.
+I am an **AI-driven computational scientist** with expertise in **large-scale statistical data analysis, probabilistic modeling, and high-dimensional inference systems**. I build **GPU-accelerated machine learning systems** for extracting weak signals from **noisy, high-dimensional time-series data**, reducing probabilistic inference time from **days to hours**.
 
 My work focuses on **applied AI/ML, physics-informed machine learning, and large-scale Bayesian inference**, with an emphasis on **real-world decision systems, time-series modeling, and uncertainty-aware AI**.
 
