@@ -9,8 +9,9 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-See my [up-to-date publication list in NASA ADS](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=NOT&filter_database_fq_database=*%3A*&filter_database_fq_database=database%3A%22earthscience%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(*%3A*%20NOT%20database%3A%22earthscience%22)&p_=0&q=-docs(96a02eebd55d5cc44bd661bffa806bfc)%20-docs(8d4bf16d1a1e0177ab26217f25375eb9)%20%20author%3A%22dandapat%2C%20subhajit%22&sort=date%20desc%2C%20bibcode%20desc).
-
+For a complete and up-to-date list of publications, see my  
+**[Google Scholar profile](https://scholar.google.com/citations?hl=en&user=BurWbwoAAAAJ)**  
+(2470+ citations · h-index: 14 · i10-index: 14 · 24 publications)
 {% include base_path %}
 
 {% for post in site.publications reversed %}
