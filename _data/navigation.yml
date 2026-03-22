@@ -8,11 +8,11 @@ main:
   - title: "Talks"
     url: /talks/  
     
-  - title: "Software"
-    url: /software/
+  # - title: "Software"
+  #   url: /software/
     
  
-  - title: "CV"
+  - title: "Resume"
     url: /cv/
     
  
