@@ -16,7 +16,7 @@ My work focuses on **applied AI/ML, physics-informed machine learning, and large
 
 ---
 
-### 🚀 What I do
+### 🔬 What I work on
 
 - Build and deploy **transformer-based and generative AI models** (normalizing flows) for **high-dimensional and time-series data**
 - Engineer **GPU-accelerated ML systems** that replace simulation-heavy pipelines (e.g., MCMC) with **fast, scalable neural inference**
