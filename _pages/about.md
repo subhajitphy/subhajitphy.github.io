@@ -59,9 +59,7 @@ I collaborate with major international research collaborations, including in tec
 - **ESA/NASA mission: [LISA](https://lisa.nasa.gov/)**  
 - Former member of the [LIGO Scientific Collaboration](https://www.ligo.caltech.edu/)  
 
-I also completed my **BS–MS Dual Degree in Physics** from  
-[Indian Institute of Science Education and Research, Bhopal](https://www.iiserb.ac.in/) (2019),  
-where my Master’s thesis focused on *Chiral Anomalies in Quantum Field Theory*.
+I also completed my **BS–MS Dual Degree in Physics** from [Indian Institute of Science Education and Research, Bhopal](https://www.iiserb.ac.in/) (2019), where my Master’s thesis focused on *Chiral Anomalies in Quantum Field Theory*.
 
 ---
 
