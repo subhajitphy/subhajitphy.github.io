@@ -56,7 +56,7 @@ where I built **large-scale Bayesian inference systems** for extracting weak sig
 I have worked in major international collaborations, including:
 
 - [International Pulsar Timing Array (IPTA)](http://ipta4gw.org/)  
-- - ESA/NASA mission: [LISA](https://lisa.nasa.gov/)
+- ESA/NASA mission: [LISA](https://lisa.nasa.gov/)
 - Former member of the [LIGO Scientific Collaboration](https://www.ligo.caltech.edu/)  
 
 ---
