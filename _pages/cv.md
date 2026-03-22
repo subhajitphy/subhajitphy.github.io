@@ -7,22 +7,32 @@ redirect_from:
   - /resume
 ---
 
-## 📄 Documents
+## Documents
 
-### 💼 Industry Resume  
-[⬇ Download Resume](/files/Resume_Subhajit_Dandapat.pdf){: .btn .btn--primary}
+### Industry Resume
+[⬇ Download Resume]({{ '/files/Resume_Subhajit_Dandapat.pdf' | relative_url }}){: .btn .btn--primary}
 
-### 🎓 Academic CV  
-[⬇ Download Academic CV](/files/CV_SUBHAJIT_DANDAPAT.pdf){: .btn}
-
----
-
-## 🔍 Preview (Industry Resume)
-
-<iframe src="/files/Subhajit_Dandapat_Resume.pdf" width="100%" height="800px"></iframe>
+### Academic CV
+[⬇ Download Academic CV]({{ '/files/CV_SUBHAJIT_DANDAPAT.pdf' | relative_url }}){: .btn}
 
 ---
 
-## 🔍 Preview (Academic CV)
+## Preview (Industry Resume)
 
-<iframe src="/files/CV_SUBHAJIT_DANDAPAT.pdf" width="100%" height="800px"></iframe>
+<iframe
+  src="{{ '/files/Resume_Subhajit_Dandapat.pdf' | relative_url }}"
+  width="100%"
+  height="900px"
+  style="border:1px solid #ccc;">
+</iframe>
+
+---
+
+## Preview (Academic CV)
+
+<iframe
+  src="{{ '/files/CV_SUBHAJIT_DANDAPAT.pdf' | relative_url }}"
+  width="100%"
+  height="900px"
+  style="border:1px solid #ccc;">
+</iframe>
