@@ -11,7 +11,7 @@ author_profile: true
 
 For a complete and up-to-date list of publications, see my  
 **[Google Scholar profile](https://scholar.google.com/citations?hl=en&user=BurWbwoAAAAJ)**  
-(2470+ citations · h-index: 14 · i10-index: 14 · 24 publications)
+(3330+ citations · h-index: 15 · i10-index: 15 · 24 publications)
 {% include base_path %}
 
 {% for post in site.publications reversed %}
